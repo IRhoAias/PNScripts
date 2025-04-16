@@ -37,7 +37,7 @@ async function startLoop() {
         // Esperar 1 segundo
         await new Promise(r => setTimeout(r, 1000));
         // Hacer clic en las coordenadas especificadas
-        clickEnCoordenadas(1105, 645);
+        clickEnCoordenadas(1106, 638);
         counter++;
         document.getElementById('counter').innerText = counter;
 
