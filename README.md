@@ -1,6 +1,6 @@
 this are some plugins for PNScrap
 
-you have more scripts for Tampermonkey from Salty
+you have more scripts for Tampermonkey from [Salty](https://www.youtube.com/@boyaghnia)
 
 [Auto Synthesize BL-2.0](https://gist.github.com/boyaghnia/6df6c8f7d134c750c8d1aadd6938ee8f)
 
