@@ -1,4 +1,4 @@
-this are some plugins for PNScrap
+this are some plugins for [Pockie Ninja Retro](https://pockieninja.online)
 
 you have more scripts for [Tampermonkey](https://www.tampermonkey.net/) from [Salty](https://www.youtube.com/@boyaghnia)
 
