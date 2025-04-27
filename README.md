@@ -1,6 +1,6 @@
 this are some plugins for PNScrap
 
-you have more scripts for Tampermonkey from [Salty](https://www.youtube.com/@boyaghnia)
+you have more scripts for [Tampermonkey](https://www.tampermonkey.net/) from [Salty](https://www.youtube.com/@boyaghnia)
 
 [Auto Synthesize BL-2.0](https://gist.github.com/boyaghnia/6df6c8f7d134c750c8d1aadd6938ee8f)
 
@@ -13,3 +13,5 @@ you have more scripts for Tampermonkey from [Salty](https://www.youtube.com/@boy
 [Auto Battle-5.0](https://gist.github.com/boyaghnia/f073da228c3baadfc83741d1c79d0829)
 
 [Auto Synthesize Cards-3.1](https://gist.github.com/boyaghnia/cf06555877fe57e1c75a2d507caf0085)
+
+[Auto Open Wishing Pot-1.4](https://gist.github.com/boyaghnia/237f841487ed8dca1a80f44cae259f9a)
