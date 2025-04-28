@@ -10,7 +10,7 @@ you have more scripts for [Tampermonkey](https://www.tampermonkey.net/) from [Sa
 
 [Auto Refine, Enchant & Inscribe-3.4](https://gist.github.com/boyaghnia/23613a66f745093d4d6ad929d5ab826e)
 
-[Auto Battle-5.0](https://gist.github.com/boyaghnia/f073da228c3baadfc83741d1c79d0829)
+[Auto Battle-5.0](https://gist.github.com/boyaghnia/bef586d5e73a3bb625bdc4e06a64d079)
 
 [Auto Synthesize Cards-3.1](https://gist.github.com/boyaghnia/cf06555877fe57e1c75a2d507caf0085)
 
